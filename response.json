@@ -1,0 +1,37 @@
+{
+    "facet_counts": [],
+    "found": 1,
+    "hits": [
+        {
+            "document": {
+                "category.id": 19,
+                "category.name_en": "Backend dasturchi",
+                "category.name_ru": "Backend dasturchi",
+                "category.name_uz": "Backend dasturchi",
+                "category.slug": "backend-dasturchi",
+                "id": "11",
+                "published_at": 1674817118,
+                "title": "Python back-end dasturchi"
+            },
+            "highlights": [
+                {
+                    "field": "title",
+                    "matched_tokens": [
+                        "Python"
+                    ],
+                    "snippet": "<mark>Python</mark> back-end dasturchi"
+                }
+            ],
+            "text_match": 72341265420648449
+        }
+    ],
+    "out_of": 5,
+    "page": 1,
+    "request_params": {
+        "collection_name": "vacancy",
+        "per_page": 10,
+        "q": "python"
+    },
+    "search_cutoff": false,
+    "search_time_ms": 0
+}
